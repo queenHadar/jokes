@@ -27,6 +27,8 @@ Install dependencies with:
 pip install pyjokes pick
 ```
 
+---
+
 ## Usage
 
 Run the script from your terminal or command prompt with:
