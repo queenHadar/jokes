@@ -17,14 +17,11 @@ You can select language, joke category, and how many jokes you want. The jokes a
 
 ## Requirements
 
-- Python 3.x
-- `pyjokes`  
-- `pick`
-
+All Requirements found in requirements.txt
 Install dependencies with:
 
 ```bash
-pip install pyjokes pick
+pip install -r requirements.txt
 ```
 
 ---
