@@ -1,0 +1,9 @@
+certifi==2025.6.15
+charset-normalizer==3.4.2
+idna==3.10
+pep8==1.7.1
+pick==2.4.0
+pygame==2.5.2
+pyjokes==0.8.3
+requests==2.32.4
+urllib3==2.5.0
